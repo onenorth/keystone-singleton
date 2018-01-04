@@ -1,16 +1,19 @@
 {
   "name": "keystone-singleton",
-  "version": "1.0.0",
-  "description": "A plugin that allows the creation of \"singleton\" KeystoneJS lists.",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "A plugin that allows the creation of singleton KeystoneJS lists.",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/onenorth/keystone-singleton.git"
+    "url": "git+https://github.com/onenorth/keystone-singleton.git"
   },
   "author": "Ryan Haskell-Glatz",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/onenorth/keystone-singleton#readme"
+  "bugs": {
+    "url": "https://github.com/onenorth/keystone-singleton/issues"
+  },
+  "homepage": "https://github.com/onenorth/keystone-singleton#readme"
 }

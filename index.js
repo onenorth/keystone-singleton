@@ -26,8 +26,7 @@ module.exports = {
             type: String,
             required: true,
             default: prettyName,
-            hidden: true,
-            select: false
+            hidden: true
           }
         })
 
