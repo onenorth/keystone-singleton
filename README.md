@@ -1,6 +1,12 @@
 # KeystoneJS | Singleton Plugin
 > A plugin that allows the creation of "singleton" KeystoneJS lists.
 
+### Installation
+
+```
+npm install --save-dev git://github.com/onenorth/keystone-singleton.git#1.0.1
+```
+
 ### Description
 
 This plugin prevents users from creating multiple items, and guarantees that an item is created automatically.
