@@ -4,7 +4,7 @@
 ### Installation
 
 ```
-npm install --save-dev git://github.com/onenorth/keystone-singleton.git#1.0.1
+npm install --save git://github.com/onenorth/keystone-singleton.git#1.0.1
 ```
 
 ### Description
