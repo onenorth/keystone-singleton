@@ -1,6 +1,10 @@
 # KeystoneJS | Singleton Plugin
 > A plugin that allows the creation of "singleton" KeystoneJS lists.
 
+### Disclaimer
+
+While you are more than welcome to view the source, this is __not an official KeystoneJS plugin__ and we discourage depending on this in `production`.
+
 ### Installation
 
 ```
